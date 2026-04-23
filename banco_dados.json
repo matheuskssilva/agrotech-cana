@@ -1,0 +1,9 @@
+[
+    {
+        "area": 20.0,
+        "producao": 1.0,
+        "tipo": "manual",
+        "perda_percentual": 5,
+        "perda_ton": 0.05
+    }
+]
